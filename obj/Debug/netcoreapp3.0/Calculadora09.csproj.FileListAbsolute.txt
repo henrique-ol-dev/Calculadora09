@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Calculadora09\bin\Debug\netcoreapp3.0\Calculadora09.exe
+C:\Users\senai\Desktop\Calculadora09\bin\Debug\netcoreapp3.0\Calculadora09.deps.json
+C:\Users\senai\Desktop\Calculadora09\bin\Debug\netcoreapp3.0\Calculadora09.runtimeconfig.json
+C:\Users\senai\Desktop\Calculadora09\bin\Debug\netcoreapp3.0\Calculadora09.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Calculadora09\bin\Debug\netcoreapp3.0\Calculadora09.dll
+C:\Users\senai\Desktop\Calculadora09\bin\Debug\netcoreapp3.0\Calculadora09.pdb
+C:\Users\senai\Desktop\Calculadora09\obj\Debug\netcoreapp3.0\Calculadora09.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Calculadora09\obj\Debug\netcoreapp3.0\Calculadora09.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Calculadora09\obj\Debug\netcoreapp3.0\Calculadora09.AssemblyInfo.cs
+C:\Users\senai\Desktop\Calculadora09\obj\Debug\netcoreapp3.0\Calculadora09.dll
+C:\Users\senai\Desktop\Calculadora09\obj\Debug\netcoreapp3.0\Calculadora09.pdb
